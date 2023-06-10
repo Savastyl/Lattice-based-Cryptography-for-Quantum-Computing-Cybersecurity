@@ -1,7 +1,7 @@
 # RBC Bank QuantumShield - Lattice-based Cryptography for Quantum Computing Cybersecurity
 RBC Bank QuantumShield is a project aimed at enhancing cybersecurity in the era of quantum computing by leveraging lattice-based cryptography. Quantum computing poses a significant threat to traditional cryptographic systems, and RBC Bank QuantumShield addresses this concern by employing lattice-based cryptography. By utilizing the principles of quantum computing and lattice-based encryption schemes, RBC Bank QuantumShield enhances the security of data transmission, encryption, and authentication processes.
 
-## Result Explanation
+## Result 
 
 ![Alt text](Media/1.png)
 
